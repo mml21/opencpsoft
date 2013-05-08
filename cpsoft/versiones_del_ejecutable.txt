@@ -1,0 +1,38 @@
+Listado de las versiones de los ficheros de cdigo fuente que forman el ejecutable
+MIFYSYS.jar
+
+Paquete fichero: 
+
+  - Fichero.java: 1.15
+
+Paquete bd:
+
+  - BD.java: 1.19
+
+Paquete usuarios:
+
+  - Administrador.java:  1.11
+  - Usuario.java: 1.12
+
+Paquete interfaz:
+
+  - Interfaz.java: 1.11
+  - VentanaAdministracionUsuarios.java: 1.8
+  - VentanaAdministrador.java: 1.7
+  - VentanaCreacionNuevoFichero.java: 1.7
+  - VentanaCreacionNuevoUsuario.java: 1.9
+  - VentanaFicherosUsuario.java: 1.17
+  - VentanaLogin.java: 1.13
+  - VentanaModificacionFichero.java: 1.13
+  - VentanaModificacionUsuario.java: 1.9
+  - VentanaUsuario.java: 1.7
+
+
+Listado de las versiones de los ficheros de cdigo fuente que forman el ejecutable
+InstaladorMIFYSYS.jar
+
+  - Instalador.java: 1.10
+
+  - VentanaInstalador.java: 1.18
+  
+  - Desinstalador.java: 1.2
